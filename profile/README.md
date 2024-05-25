@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<p>sebenarnya gw mau buat programming language biasa, tapi karena lagi sibuk banget jadi terbengkalai deh.</br> jadinya pengen diubah juga kalau gw mau....</p>
 <!--
 
 **Here are some ideas to get you started:**
